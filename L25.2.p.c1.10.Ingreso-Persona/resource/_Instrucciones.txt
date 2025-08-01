@@ -1,7 +1,0 @@
-Todos los archivos que ves acá forman parte del proyecto llamado "L25.2.p.c1.01.La-Bodega"
-
-Tú debes:
-1. Crear un nuevo proyecto llamado "L25.2.p.c1.01.Mi-Bodega"
-2. Crear toda la estructura de directorios necesaria para que corra el proyecto
-3. Copiar allí los archivos suministrados en este comprimido, en su lugar correcto
-4. Hacer todas las configuraciones TypeScript para que el proyecto corra
